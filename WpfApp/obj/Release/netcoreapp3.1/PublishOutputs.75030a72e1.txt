@@ -1,0 +1,5 @@
+E:\Release\WpfApp.exe
+E:\Release\WpfApp.dll
+E:\Release\WpfApp.deps.json
+E:\Release\WpfApp.runtimeconfig.json
+E:\Release\WpfApp.pdb
